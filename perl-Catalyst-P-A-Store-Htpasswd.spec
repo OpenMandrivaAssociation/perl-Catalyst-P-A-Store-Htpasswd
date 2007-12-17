@@ -23,7 +23,6 @@ BuildRequires:	perl(Module::Build)
 Provides:	perl-%realname
 Obsoletes:	perl-%realname
 BuildArch:	noarch
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This plugin uses Authen::Htpasswd to let your application use
