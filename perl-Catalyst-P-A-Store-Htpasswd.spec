@@ -4,7 +4,7 @@
 %define	modprefix Catalyst
 
 %define version 0.02
-%define release %mkrel 7
+%define release %mkrel 9
 
 Summary:	Authentication database in $c->config
 Name:		%{name}
